@@ -1,1 +1,1 @@
-git add<local.txt> 
+hola repositorio local
